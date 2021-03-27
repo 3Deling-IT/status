@@ -17,12 +17,16 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/3d-logo.svg
   name: 3Deling Status Page
   introTitle: "**3Deling Status Page**"
-  introMessage: Welcome to the 3Deling Status Page
+  introMessage: 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  theme: light
+  favicon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/favicon.ico
+  metaTags:
+      - name: "robots"
+      content: "noindex,nofollow"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
