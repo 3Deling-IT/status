@@ -7,14 +7,14 @@ sites:
   - name: 3Deling
     url: 185.70.180.209
   - name: Fileshare
-    url: 185.70.180.211
+    url: https://fileshare.3deling.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.3deling.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/3d-logo.svg
   name: 3Deling Status Page
   introTitle: "**3Deling Status Page**"
   introMessage: Welcome to the 3Deling Status Page
