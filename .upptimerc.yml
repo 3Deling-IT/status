@@ -39,8 +39,8 @@ sites:
 status-website:
   cname: status.3deling.com
   logoUrl: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/3d-logo.png
-  name: 3Deling Status Page
-  introTitle: "**3Deling Status Page**"
+  name: Status Page
+  introTitle: ""
   introMessage: 
   navbar:
     - title: Status
