@@ -23,10 +23,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: light
+  theme: dark
   favicon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/favicon.ico
   metaTags:
-      - name: "robots"
+    - name: "robots"
       content: "noindex,nofollow"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
