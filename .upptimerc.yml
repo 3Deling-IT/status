@@ -47,5 +47,5 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex,nofollow"
-  i18n:
-    footer: 
+  css: "#sapper > footer > p {visibility: hidden;}"
+  css: "#sapper > nav > div > div > a > div {visibility: hidden;}" 
