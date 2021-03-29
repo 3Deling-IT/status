@@ -1,17 +1,19 @@
-# Change these first
-owner: 3Deling-IT # Your GitHub username
-repo: status # Your GitHub repository name
+owner: 3Deling-IT
+repo: status
 
-# Add your sites here
+#SITES
 sites:
   - name: 3Deling
     url: $MAIN_SITE
+    icon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/3d-favicon.ico
   - name: Owncloud
     url: $OWNCLOUD_SITE
     method: GET
+    icon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/oc-favicon.ico
   - name: Support
     url: $SUPPORT_SITE
     method: GET
+    icon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/sp-favicon.svg
   - name: Web Pano
     url: $PANO_SITE
     icon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/wp-favicon.ico
@@ -19,21 +21,23 @@ sites:
   - name: TVE
     url: $TVE_SITE
     method: GET
+    icon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/tve-favicon.ico
   - name: Sentry
     url: $SENTRY_SITE
     method: GET
+    icon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/sentry-favicon.ico
   - name: ERP
     url: $ERP_SITE
     method: GET
+    icon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/erp-favicon.ico
   - name: Clients Portal
     url: $CLIENTS_SITE
     method: GET
+    icon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/cp-favicon.ico
 
+#SETTINGS
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.3deling.com
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/3d-logo.svg
   name: 3Deling Status Page
   introTitle: "**3Deling Status Page**"
@@ -44,9 +48,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
-  favicon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/favicon.ico
+  favicon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/3d-favicon.ico
   metaTags:
     - name: "robots"
       content: "noindex,nofollow"
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
