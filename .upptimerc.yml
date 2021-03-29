@@ -47,3 +47,5 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex,nofollow"
+  i18n:
+    footer: 
