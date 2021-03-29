@@ -42,11 +42,6 @@ status-website:
   name: Status Page
   introTitle: ""
   introMessage: 
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
   theme: dark
   favicon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/3d-favicon.ico
   metaTags:
