@@ -5,9 +5,29 @@ repo: status # Your GitHub repository name
 # Add your sites here
 sites:
   - name: 3Deling
-    url: 185.70.180.209
-  - name: Fileshare
-    url: https://fileshare.3deling.com
+    url: $MAIN_SITE
+  - name: Owncloud
+    url: $OWNCLOUD_SITE
+    method: GET
+  - name: Support
+    url: $SUPPORT_SITE
+    method: GET
+  - name: Web Pano
+    url: $PANO_SITE
+    icon: https://raw.githubusercontent.com/3Deling-IT/status/master/assets/wp-favicon.ico
+    method: GET
+  - name: TVE
+    url: $TVE_SITE
+    method: GET
+  - name: Sentry
+    url: $SENTRY_SITE
+    method: GET
+  - name: ERP
+    url: $ERP_SITE
+    method: GET
+  - name: Clients Portal
+    url: $CLIENTS_SITE
+    method: GET
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
