@@ -47,5 +47,4 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex,nofollow"
-  css: "#sapper > footer > p {visibility: hidden;}"
-  css: "#sapper > nav > div > div > a > div {visibility: hidden;}" 
+  css: "#sapper > footer > p {visibility: hidden;} #sapper > nav > div > div > a > div {visibility: hidden;}"
