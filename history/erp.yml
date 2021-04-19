@@ -1,7 +1,7 @@
 url: $ERP_SITE
-status: down
-code: 502
-responseTime: 522
-lastUpdated: 2021-04-19T07:59:36.176Z
+status: up
+code: 200
+responseTime: 818
+lastUpdated: 2021-04-19T08:31:04.507Z
 startTime: Mon Mar 29 2021 17:02:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
