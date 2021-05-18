@@ -1,7 +1,7 @@
 url: $TVE_SITE
-status: up
-code: 200
-responseTime: 837
-lastUpdated: 2021-05-17T23:18:42.290Z
+status: down
+code: 502
+responseTime: 3281
+lastUpdated: 2021-05-18T11:54:56.209Z
 startTime: Mon Mar 29 2021 17:02:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
