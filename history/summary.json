@@ -58,7 +58,7 @@
     "url": "$PANO_SITE",
     "icon": "https://raw.githubusercontent.com/3Deling-IT/status/master/assets/wp-favicon.ico",
     "slug": "web-pano",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
