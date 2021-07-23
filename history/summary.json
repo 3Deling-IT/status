@@ -13,7 +13,7 @@
     "time": 336,
     "timeDay": 0,
     "timeWeek": 326,
-    "timeMonth": 520,
+    "timeMonth": 306,
     "timeYear": 336,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "$OWNCLOUD_SITE",
     "icon": "https://raw.githubusercontent.com/3Deling-IT/status/master/assets/oc-favicon.ico",
     "slug": "owncloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1624,
     "timeDay": 1609,
     "timeWeek": 1470,
-    "timeMonth": 1524,
+    "timeMonth": 1475,
     "timeYear": 1624,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 908,
     "timeDay": 1006,
     "timeWeek": 964,
-    "timeMonth": 889,
+    "timeMonth": 897,
     "timeYear": 908,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 848,
     "timeDay": 782,
     "timeWeek": 710,
-    "timeMonth": 800,
+    "timeMonth": 734,
     "timeYear": 848,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 2173,
     "timeDay": 1266,
     "timeWeek": 1157,
-    "timeMonth": 2116,
+    "timeMonth": 2017,
     "timeYear": 2173,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 930,
     "timeDay": 1062,
     "timeWeek": 1015,
-    "timeMonth": 971,
+    "timeMonth": 981,
     "timeYear": 930,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 1311,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1387,
+    "timeMonth": 1191,
     "timeYear": 1311,
     "dailyMinutesDown": {}
   }
